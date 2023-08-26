@@ -31,6 +31,9 @@ How to use Cron Job ?
 
 ![](images/cronjob.jpg)
 
+Improvement to be made
+-------------------
+- 12 hours version
 
 Made by [deadrepo]
 -------------------
