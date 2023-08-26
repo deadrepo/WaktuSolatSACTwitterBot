@@ -1,8 +1,6 @@
 Flask
 tweepy
 requests
-urllib3
-
 
 #For Compatible Version but Glitch doesn't support this
 
