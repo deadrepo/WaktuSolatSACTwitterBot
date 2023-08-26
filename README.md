@@ -2,6 +2,7 @@
 -------------------
 
 [WaktuSolatSACTwitterBot] is a bot that will tweet your shah alam prayer time everyday at 12 am on Glitch.me using Flask
+-------------------
 I have a hard time deploying this using Cpanel, therefore Glitch or Heroku is my second option.
 
 Output Sample
