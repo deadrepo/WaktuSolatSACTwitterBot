@@ -19,7 +19,14 @@ How to run on Glitch?
 - python3 `app.py`
 - `start.sh` will run your bot automatically actually, no need to do the previous steps
 
+API Endpoints
+-------------------
+- Data from [JAKIM's E-Solat](http://www.e-solat.gov.my)
+- [Shah Alam](https://www.e-solat.gov.my/index.php?r=esolatApi/takwimsolat&period=today&zone=sgr01)
+- [KL](https://www.e-solat.gov.my/index.php?r=esolatApi/takwimsolat&period=today&zone=wly01)
+
 How to use Cron Job ?
+-------------------
 - You can use any cron job available online 
 
 ![](images/cronjob.jpg)
